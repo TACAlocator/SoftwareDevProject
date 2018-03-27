@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="4nNxqIEmBWMFvP2mCd9bG2rNhDsUIxl03p9kWdmrFmI" />
+
 
 
 <html>
@@ -8,8 +8,7 @@
 </head> 
 <body>
 page contents
-</body>
-</html>
+
 
 ## Welcome to GitHub Pages
 
@@ -48,3 +47,6 @@ locator [repository settings](https://github.com/TACAlocator/SoftwareDevProject/
 ### Support or Contact
 
  locator? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
+ </body>
+</html>
