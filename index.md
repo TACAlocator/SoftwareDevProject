@@ -1,6 +1,16 @@
 <meta name="google-site-verification" content="4nNxqIEmBWMFvP2mCd9bG2rNhDsUIxl03p9kWdmrFmI" />
 
 
+<html>
+<head>
+<meta name="google-site-verification" content="4nNxqIEmBWMFvP2mCd9bG2rNhDsUIxl03p9kWdmrFmI" />
+<title> My title </title>
+</head> 
+<body>
+page contents
+</body>
+</html>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TACAlocator/SoftwareDevProject/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
