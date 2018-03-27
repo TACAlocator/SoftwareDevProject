@@ -1,6 +1,4 @@
 
-
-
 <html>
 <head>
 <meta name="google-site-verification" content="4nNxqIEmBWMFvP2mCd9bG2rNhDsUIxl03p9kWdmrFmI" />
